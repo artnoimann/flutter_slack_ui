@@ -9,7 +9,6 @@ lottie: ^1.3.0<br />
   flutter_emoji: ^2.4.0<br />
   expandable: ^5.0.1<br />
   <br />
-  <img src="https://user-images.githubusercontent.com/30262687/177369177-0e5a56c0-7d86-4b06-93db-44be3ba84bdb.png" width="220">
   <img src="https://user-images.githubusercontent.com/30262687/177369183-138ff238-f9bd-4991-a2b0-58dc72116a36.png" width="220">
   <img src="https://user-images.githubusercontent.com/30262687/177369193-f6aff68a-95f8-4880-8d16-a1c6ace48119.png" width="220">
   <img src="https://user-images.githubusercontent.com/30262687/177369200-95ae3192-f83c-48eb-9e1a-ccdd0a077219.png" width="220">
